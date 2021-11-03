@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hey!
+
+I code things at times.  I [share](https://jace.pro) thoughts on those things.  I try to keep on top of the [ServiceNow News](https://news.jace.pro).  I'm always trying to learn things to improve my work.  Lately I've been doing that with [RedwoodJS](https://redwoodjs.com) to learn React, and GraphQL.  
+
+That being said, I started a project called [Tskr](https://tskr.io).  It's out there in the open and I'd love to help you help me.  Really though I just want some place to start for a number of projects I have in my hopper.  
+
+You can follow me on [Twitter](https://twitter.com/jacebenson).
